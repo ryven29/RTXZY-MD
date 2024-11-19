@@ -42,7 +42,7 @@
 
 ### `Render`
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBOTCAHX%2FRTXZY-MD)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Fryven29%2FRTXZY-MD)
 ## Base Ori
 Original base [`Link`](https://github.com/HelgaIlham/ZukaBet)
 
